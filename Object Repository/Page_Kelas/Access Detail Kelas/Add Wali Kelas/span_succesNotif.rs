@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_succesNotif</name>
+   <tag></tag>
+   <elementGuidId>eee28db9-35b1-455d-851e-b2b10a388b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-testid='simple-notif']//div//span[contains(text(), 'Wali Berhasil Ditambahakan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>12bf1e21-8db6-4c13-b2d8-58800ff522be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wali Berhasil Ditambahakan</value>
+      <webElementGuid>4a71d2ea-c3fe-4cf2-9efe-368508603c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[3]/div[@class=&quot;flex notif shadow-xl z-[101] rounded-lg success-type svelte-1joscoi&quot;]/span[2]</value>
+      <webElementGuid>f49c74f0-12bc-41cc-ab95-7418489605e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>74140c4e-2316-48b5-aa0f-b978f5dc1e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Wali Berhasil Ditambahakan' or . = 'Wali Berhasil Ditambahakan')]</value>
+      <webElementGuid>e6f33f22-b67a-4c81-9d6e-888aa6c075ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

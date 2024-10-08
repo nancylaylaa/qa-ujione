@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 08 - Add User Pengajar Wrong Data (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09fb87b6-ffdf-4f0f-b135-2299b837d396</testCaseGuid>
+</TestCaseEntity>

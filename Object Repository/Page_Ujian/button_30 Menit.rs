@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_30 Menit</name>
+   <tag></tag>
+   <elementGuidId>66a09f99-ca2f-4d8e-ad72-00f3caf72396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='b-fasttime']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b-fasttime</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8ccd07c-af8c-41d4-81fb-f1c9c34b4306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b-fasttime</value>
+      <webElementGuid>a2da310e-d94a-4edf-b37f-0703e7a8851c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-teal-100 py-2 text-teal-100 rounded-sm</value>
+      <webElementGuid>be7b25e0-32b8-4471-a1b7-6e9dd2e1c2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30 Menit</value>
+      <webElementGuid>2b6a8ccd-e49f-405e-9db0-100f3f8bcf2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;grid mt-2 gap-5 grid-rows-2 md:grid-rows-none md:grid-cols-2&quot;]/div[@class=&quot;space-y-4 mb-4&quot;]/div[2]/div[@class=&quot;flex flex-col space-y-6&quot;]/div[@class=&quot;bg-teal-700 p-2 rounded-md space-y-4&quot;]/div[@class=&quot;grid gap-3 grid-cols-2 sm:grid-cols-4&quot;]/button[@id=&quot;b-fasttime&quot;]</value>
+      <webElementGuid>0fa3e237-2e3b-4da8-8e4b-ca0eedb78080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='b-fasttime']</value>
+      <webElementGuid>41b5f554-b871-4946-9ad8-d1aeac955370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>85c25287-4927-44b2-985a-f117170feef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'b-fasttime' and (text() = '30 Menit' or . = '30 Menit')]</value>
+      <webElementGuid>3546638a-fa61-4631-a96c-141eaa051cf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

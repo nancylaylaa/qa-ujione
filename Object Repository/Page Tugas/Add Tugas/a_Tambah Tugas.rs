@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Tugas</name>
+   <tag></tag>
+   <elementGuidId>c4e3c01e-55cd-4fcb-ac72-89c8382d4b29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45279f1e-9de0-46c0-8165-653929522adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/create-tugas</value>
+      <webElementGuid>bd620954-fafd-4f72-a724-9fe7e1eeb237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 bg-teal-600 rounded py-2 px-5 text-white w-full sm:w-fit</value>
+      <webElementGuid>424ae58a-f6c7-47c8-90f7-dd0f34e6716d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eed49425-4279-49a9-9b70-0aa9e8a99085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Tugas</value>
+      <webElementGuid>154b64a9-6882-48f2-8305-ed241f984599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto min-h-screen&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;w-full flex flex-col sm:flex-row sm:items-center sm:justify-between&quot;]/div[@class=&quot;flex flex-col gap-2 sm:flex-row sm:items-center&quot;]/a[@class=&quot;flex items-center space-x-2 bg-teal-600 rounded py-2 px-5 text-white w-full sm:w-fit&quot;]</value>
+      <webElementGuid>56527ec8-cdf4-401c-9d74-586b8d3d732f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='button']</value>
+      <webElementGuid>8a552c13-53af-442f-aaef-fa781a9b5bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/create-tugas')]</value>
+      <webElementGuid>c2953e31-c198-406a-8920-2cd14a7a00ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>beacc932-b2b6-42f2-9904-ce0105ce138d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/create-tugas' and @type = 'button' and (text() = ' Tambah Tugas' or . = ' Tambah Tugas')]</value>
+      <webElementGuid>4164ffd7-0ac0-4836-bbb5-f9d8adaf8d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

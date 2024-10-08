@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Guru</name>
+   <tag></tag>
+   <elementGuidId>ea483e15-9d3b-4e27-b70b-6a15d8e43d2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(), 'Tambah Guru')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fe8d11e-761b-4d44-82c0-c3ce65ba4505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-teal-600 rounded py-2 px-5 sm:w-fit w-full</value>
+      <webElementGuid>4eff988b-babe-465e-91c9-b682a56e7c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e6b7801-e63a-4325-9e35-34a8205ff47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Guru</value>
+      <webElementGuid>927de29f-b5e5-469b-aa71-fb32c923c92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;sm:flex flex-col flex sm:flex-row justify-between sm:gap-0 gap-2&quot;]/div[@class=&quot;sm:flex sm:flex-row flex items-center flex-col sm:space-x-4 sm:w-fit w-full sm:gap-0 gap-2&quot;]/button[@class=&quot;bg-teal-600 rounded py-2 px-5 sm:w-fit w-full&quot;]</value>
+      <webElementGuid>27f4c563-3b87-473e-9c6f-a59fca260204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>ea56e4f9-1307-40cd-ae2d-eb95659cea58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>d34ddea6-0519-4236-9dbf-d3d359f24656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tambah Guru' or . = ' Tambah Guru')]</value>
+      <webElementGuid>61f4cc76-7985-4643-8203-7957783633a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

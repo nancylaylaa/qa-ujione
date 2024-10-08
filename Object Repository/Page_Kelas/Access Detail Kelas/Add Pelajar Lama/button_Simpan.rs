@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan</name>
+   <tag></tag>
+   <elementGuidId>e4f69764-dc7e-41fd-8fa6-128d24ccef94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;self-end&quot;]//button//div//span[contains(text(), 'Simpan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3b5c4eb-38ca-4ed7-9348-edd4e8253fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#3085D6] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline</value>
+      <webElementGuid>a2cf41e6-6cc9-454b-af2d-d3b163fa0cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c340f7e4-244b-430c-b65b-784e7aaca861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan</value>
+      <webElementGuid>77dbb376-3ec8-4937-bcf3-eed1cb162f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;w-full md:w-[40rem] flex flex-col space-y-4 p-8&quot;]/div[@class=&quot;self-end&quot;]/button[@class=&quot;bg-[#3085D6] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline&quot;]</value>
+      <webElementGuid>c37cee51-dbf9-43c2-8dfe-bfa270047866</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>0b709693-1a42-438f-9e80-5805189fa517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div[3]/button</value>
+      <webElementGuid>ad3faa9b-7915-43b7-b546-12cd0707f72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]/button</value>
+      <webElementGuid>67d40f96-9d3d-4bee-8688-39d17b36d6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Simpan' or . = ' Simpan')]</value>
+      <webElementGuid>0edb9a18-f813-4122-8613-0e9be7b616af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

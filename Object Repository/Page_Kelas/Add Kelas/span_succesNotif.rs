@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_succesNotif</name>
+   <tag></tag>
+   <elementGuidId>d6d8ef58-3860-47e1-b68a-2b435a3b0b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-testid='simple-notif']//span[contains(text(), 'Data telah ditambahkan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70af4685-042d-48e9-8724-71420b0532f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data telah ditambahkan</value>
+      <webElementGuid>3f1a2773-5578-4778-9fd0-8156711d62ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[2]/div[@class=&quot;flex notif shadow-xl z-[101] rounded-lg success-type svelte-1joscoi&quot;]/span[2]</value>
+      <webElementGuid>cad4de0f-7ae3-4090-83ba-f9734ecc1d06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>776dd6a8-3115-4f12-a517-539d48d8eaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Data telah ditambahkan' or . = 'Data telah ditambahkan')]</value>
+      <webElementGuid>13a9c4a7-0059-4310-8344-9cf4ce60566e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email atau Password Salah</name>
+   <tag></tag>
+   <elementGuidId>b9ecd016-c024-443b-9a92-86a64f2844be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-white-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e2b78bb-b1d4-4fbe-a6ad-8a389d584bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white-500</value>
+      <webElementGuid>e8d5f5d6-e6c3-43f4-8268-6950661a3972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email atau Password Salah</value>
+      <webElementGuid>415ac9a3-6779-4e14-b133-b5d8768f6e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[@class=&quot;w-screen h-screen flex justify-center items-center bg-[#f7f1e4]&quot;]/div[1]/div[@class=&quot;p-4 sm:p-0&quot;]/div[@class=&quot;flex flex-col w-full p-6 sm:p-10 rounded-md bg-white mt-4&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;bg-red-200 my-5 p-2&quot;]/span[@class=&quot;text-white-500&quot;]</value>
+      <webElementGuid>4e637e91-c931-48bd-96d2-4336fc704cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span</value>
+      <webElementGuid>bb7c8377-dbb1-413a-bf06-c7a66194df0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email atau Password Salah' or . = 'Email atau Password Salah')]</value>
+      <webElementGuid>5d87cfcd-c366-4c00-accb-8ed7937a3be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

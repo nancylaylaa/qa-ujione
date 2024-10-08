@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 17 - Add User Pelajar Valid (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcb83ca2-9681-41cc-af1e-aa17e882ea0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_w-4 h-4</name>
+   <tag></tag>
+   <elementGuidId>74e40871-b7ae-494d-8a83-a5663f9644f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.w-4.h-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c55d4599-d8bc-46b7-8f14-9bb244245b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>a84e4381-6f91-4a28-a11d-3b513ed068f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-4 h-4</value>
+      <webElementGuid>fe3711de-5570-4a1c-a61a-b8422675528f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;w-full bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 items-center bg-gray-50 rounded p-2 border border-gray-200 gap-3 sm:grid-cols-4&quot;]/div[@class=&quot;flex gap-3&quot;]/input[@class=&quot;w-4 h-4&quot;]</value>
+      <webElementGuid>c4d04336-be04-4fac-a282-649edaa3a425</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>049b2216-aca1-40c0-b3d1-ca90def70901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input</value>
+      <webElementGuid>44c04131-9c2e-485d-9991-ecfe60bc3f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>38d6350e-6fe6-44d5-86fb-e0f8541acebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

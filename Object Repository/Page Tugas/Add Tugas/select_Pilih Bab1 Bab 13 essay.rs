@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Bab1 Bab 13 essay</name>
+   <tag></tag>
+   <elementGuidId>f4fcd843-289f-4a5d-9557-acacb7929291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='grid-state'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9900966a-21c6-4dea-b626-63d796e0c12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500</value>
+      <webElementGuid>b0cec017-10f4-40db-b78b-c70de63b75de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid-state</value>
+      <webElementGuid>cba162d3-54a8-45b6-aee4-a36d6194a116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Bab[1] Bab 1[3] essay</value>
+      <webElementGuid>4371ba3f-acb8-46ee-9823-60cceebb49cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;grid mt-2 gap-5 grid-rows-2 md:grid-rows-none md:grid-cols-2&quot;]/div[1]/form[@class=&quot;w-full flex flex-col space-y-3&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;relative&quot;]/select[@id=&quot;grid-state&quot;]</value>
+      <webElementGuid>8bdaf6de-bb39-42b5-aa19-5a731cfe5260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='grid-state'])[3]</value>
+      <webElementGuid>f9621990-5eec-496c-8920-6846d13944f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>55030b68-995c-449b-a022-1a56d39ba8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'grid-state' and (text() = 'Pilih Bab[1] Bab 1[3] essay' or . = 'Pilih Bab[1] Bab 1[3] essay')]</value>
+      <webElementGuid>da911be8-c596-4f7d-adcc-08d8bd57bcbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

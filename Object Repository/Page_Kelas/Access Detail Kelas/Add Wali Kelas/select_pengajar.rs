@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_pengajar</name>
+   <tag></tag>
+   <elementGuidId>cc1581e1-c2c4-468d-ad4a-15cb715ae429</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@class=&quot;text-sm appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>714a8af9-1203-46c7-a296-0addf5fdc55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline</value>
+      <webElementGuid>ffd4a114-b841-4231-88ba-04b52689eab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Walijoshtestess kakaTeacherTestPak Guru BaikBu Guru Baikkpak josh</value>
+      <webElementGuid>b7453d22-c56d-40c7-82ef-8916015bfb17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;mb-4&quot;]/select[@class=&quot;text-sm appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline&quot;]</value>
+      <webElementGuid>867a8914-b0e8-439e-b41a-240a4ab1775b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div[2]/select</value>
+      <webElementGuid>69d670f4-3616-43e9-a77a-cf0fdb541c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>390deac8-1033-4cbd-bca9-1d2753a42c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Pilih Walijoshtestess kakaTeacherTestPak Guru BaikBu Guru Baikkpak josh' or . = 'Pilih Walijoshtestess kakaTeacherTestPak Guru BaikBu Guru Baikkpak josh')]</value>
+      <webElementGuid>0809fd8a-b094-4b3c-9fe1-9aea454eeb9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

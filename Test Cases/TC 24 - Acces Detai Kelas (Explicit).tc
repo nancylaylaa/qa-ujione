@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 24 - Acces Detai Kelas (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f811e1e0-74ba-4cfc-89dc-8402a83748e9</testCaseGuid>
+</TestCaseEntity>

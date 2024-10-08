@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 15 - Search Valid Data Pengajar (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cce03489-57e8-4503-8aea-4fae6e457a52</testCaseGuid>
+</TestCaseEntity>

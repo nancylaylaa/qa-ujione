@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Perubahan</name>
+   <tag></tag>
+   <elementGuidId>9f9785f6-0041-4d44-a9f0-a142cafc8726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(), 'Simpan Perubahan')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48ca99f9-f160-4a0d-91be-5e11dab109a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#3085D6] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline</value>
+      <webElementGuid>7a24ae0b-79a8-469e-b396-2bf24202ad9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7c0abe2c-ba6b-420f-a6d7-205ca4eb8d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan Perubahan</value>
+      <webElementGuid>a27c2e63-ce7a-431e-9be1-ddbddf9b8ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;sm:w-[40rem] w-full flex flex-col space-y-4 sm:p-8 p-2&quot;]/form[@class=&quot;space-y-4 flex flex-col&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/button[@class=&quot;bg-[#3085D6] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline&quot;]</value>
+      <webElementGuid>d814cd55-4573-4251-83f2-dcc2e8b71eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>f7f9022c-61ed-4aa6-a476-496b7d3514be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal']/div/div/form/div[7]/div[2]/button)[2]</value>
+      <webElementGuid>b69dae8b-5df4-4072-b0aa-0ff723bfbafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/form/div[7]/div[2]/button</value>
+      <webElementGuid>9481f49f-bdf9-4678-9f58-e2f4244a8575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Simpan Perubahan' or . = ' Simpan Perubahan')]</value>
+      <webElementGuid>021a2313-0896-4090-bd32-87104c3b27ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

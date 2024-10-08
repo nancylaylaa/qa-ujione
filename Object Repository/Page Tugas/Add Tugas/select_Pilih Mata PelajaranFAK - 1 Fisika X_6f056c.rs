@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Mata PelajaranFAK - 1 Fisika X_6f056c</name>
+   <tag></tag>
+   <elementGuidId>cd62ee4b-ea56-4bd9-962c-bf2b79f92593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='grid-state'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>449c81d2-d8cf-480d-a89d-ab24934f95fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500</value>
+      <webElementGuid>4a1e846e-0f01-46c4-89ab-ab77a7121b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid-state</value>
+      <webElementGuid>372bdeb7-b1ec-4e13-b9fa-826522cd4197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Mata Pelajaran[FAK - 1] Fisika X [total bab: 2][FAK - 2 - 2] Fisika XI [total bab: 0][BAHASA - 4 - 4] Bahasa [total bab: 1][UMUM - 5] Pengetahuan Umum [total bab: 0][BAHASA - 6] Bahasa Inggris [total bab: 0][AGAMA - 11] PAI [total bab: 0]</value>
+      <webElementGuid>5d6c72b4-b9a2-4e66-8255-618dab3d0601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;grid mt-2 gap-5 grid-rows-2 md:grid-rows-none md:grid-cols-2&quot;]/div[1]/form[@class=&quot;w-full flex flex-col space-y-3&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;relative&quot;]/select[@id=&quot;grid-state&quot;]</value>
+      <webElementGuid>fbbfb8e4-32cc-4674-af0b-181cbbbfa95c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='grid-state'])[2]</value>
+      <webElementGuid>708390b9-4264-4d59-96f5-9d5259621711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>6eb39945-fc2d-4779-ba23-92902a0cd52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'grid-state' and (text() = 'Pilih Mata Pelajaran[FAK - 1] Fisika X [total bab: 2][FAK - 2 - 2] Fisika XI [total bab: 0][BAHASA - 4 - 4] Bahasa [total bab: 1][UMUM - 5] Pengetahuan Umum [total bab: 0][BAHASA - 6] Bahasa Inggris [total bab: 0][AGAMA - 11] PAI [total bab: 0]' or . = 'Pilih Mata Pelajaran[FAK - 1] Fisika X [total bab: 2][FAK - 2 - 2] Fisika XI [total bab: 0][BAHASA - 4 - 4] Bahasa [total bab: 1][UMUM - 5] Pengetahuan Umum [total bab: 0][BAHASA - 6] Bahasa Inggris [total bab: 0][AGAMA - 11] PAI [total bab: 0]')]</value>
+      <webElementGuid>ba184663-8de7-4cae-b8fc-4d980857e4d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

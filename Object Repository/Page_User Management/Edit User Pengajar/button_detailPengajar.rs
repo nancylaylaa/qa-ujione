@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_detailPengajar</name>
+   <tag></tag>
+   <elementGuidId>75136e00-da11-4179-949d-13816fb749c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class=&quot;w-full whitespace-nowrap&quot;]//tbody//tr[2]//td[8]//div//button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>345672a5-6f69-4747-980b-f8663d7c2569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>&quot;h-auto w-6 stroke-black</value>
+      <webElementGuid>ef04e723-a5bf-4587-89b1-353c027543c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>47d62329-84d5-4e3e-87a9-4ae4ac7d076f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>f30fe3a9-db22-4322-8369-7d29a9d4b867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9d2ae09a-a133-4145-bfdb-962bd2e55ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[4]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full whitespace-nowrap&quot;]/tbody[1]/tr[@class=&quot;even:bg-gray-100 h-[60px]&quot;]/td[@class=&quot;min-w-[142px]&quot;]/div[@class=&quot;flex justify-evenly&quot;]/button[@class=&quot;p-1&quot;]/svg[@class=&quot;&quot;h-auto w-6 stroke-black&quot;]</value>
+      <webElementGuid>c96720d2-3de6-413c-8f2b-ce259eb6f718</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

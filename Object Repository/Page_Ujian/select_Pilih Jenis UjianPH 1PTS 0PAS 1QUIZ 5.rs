@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Jenis UjianPH 1PTS 0PAS 1QUIZ 5</name>
+   <tag></tag>
+   <elementGuidId>9dfa6b61-20f2-4bb4-aa59-5113831c5e38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='grid-state'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>16195415-1e1c-4b0e-9930-cb94cca240fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500</value>
+      <webElementGuid>ea1fa4fa-2247-495b-85f8-ee05eb71881a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid-state</value>
+      <webElementGuid>eb812d54-2dd7-4204-b54c-0dac3fe093b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Jenis UjianPH [1]PTS [0]PAS [1]QUIZ [5]</value>
+      <webElementGuid>8e582d0f-16a5-49dc-bc0c-fe0738298228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;grid mt-2 gap-5 grid-rows-2 md:grid-rows-none md:grid-cols-2&quot;]/div[@class=&quot;space-y-4 mb-4&quot;]/div[2]/div[@class=&quot;flex flex-col space-y-6&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;relative&quot;]/select[@id=&quot;grid-state&quot;]</value>
+      <webElementGuid>c0d142e5-c49c-40c6-a241-5a31608823f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='grid-state'])[3]</value>
+      <webElementGuid>eb6a18f2-0e1e-420e-b225-938694fcbaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/select</value>
+      <webElementGuid>6d5fb537-e379-4429-9e63-f93b641e4353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'grid-state' and (text() = 'Pilih Jenis UjianPH [1]PTS [0]PAS [1]QUIZ [5]' or . = 'Pilih Jenis UjianPH [1]PTS [0]PAS [1]QUIZ [5]')]</value>
+      <webElementGuid>6d111c02-307f-4492-8c58-2e515a54a8d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

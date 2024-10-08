@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 30 - Delete Kelas (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c99d9ec1-a640-443d-83c9-5d5e0dd6363d</testCaseGuid>
+</TestCaseEntity>

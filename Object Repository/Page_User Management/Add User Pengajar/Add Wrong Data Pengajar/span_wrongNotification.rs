@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_wrongNotification</name>
+   <tag></tag>
+   <elementGuidId>c11879e5-6049-4047-9427-3a2f4f009240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='modal']/div/div/form/div[7]/div/span)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-red-500.text-xs.italic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bea9f013-d8c2-4633-9a30-0744c6e4506d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500 text-xs italic</value>
+      <webElementGuid>adebdbc1-d359-4027-9574-2e4f3f1406b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Sudah Terdaftar Di UJIONE</value>
+      <webElementGuid>2e2ab2c8-7a39-4de4-9dda-32d9141ffbd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;sm:w-[40rem] w-full flex flex-col space-y-4 sm:p-8 p-2&quot;]/form[@class=&quot;space-y-4 flex flex-col&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/div[@class=&quot;mt-2&quot;]/span[@class=&quot;text-red-500 text-xs italic&quot;]</value>
+      <webElementGuid>d0e78ea5-5b81-48dd-95ed-400eedb6e8bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal']/div/div/form/div[7]/div/span)[2]</value>
+      <webElementGuid>51fe9fc5-eac2-4c1e-bfc6-d88604586abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/form/div[7]/div/span</value>
+      <webElementGuid>9b1243a1-0629-407c-81c2-b33b92bda335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email Sudah Terdaftar Di UJIONE' or . = 'Email Sudah Terdaftar Di UJIONE')]</value>
+      <webElementGuid>1848b752-a537-4985-926f-b3a77d5fe032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

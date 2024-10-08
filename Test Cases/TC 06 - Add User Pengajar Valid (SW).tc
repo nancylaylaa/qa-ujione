@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 06 - Add User Pengajar Valid (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e516844c-8f23-42fd-bf3e-286a8e551f0d</testCaseGuid>
+</TestCaseEntity>

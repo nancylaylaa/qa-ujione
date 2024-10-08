@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit</name>
+   <tag></tag>
+   <elementGuidId>bd1a3a8a-eba0-4090-8650-3dfbf3b41841</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='w-full overflow-x-auto']/table[@class='responsive-table']/tbody/tr[1]/td[9]/div/div/a[1]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a680a8d-f7eb-4e64-9836-76c1c6914b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:outline-none focus:text-sky-600 text-xs w-full hover:bg-sky-700 py-4 px-4 cursor-pointer hover:text-white</value>
+      <webElementGuid>a9a2ebb5-397a-44e8-8ced-8711a25cd72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>06d994d6-e2f0-47ae-8717-91afd89d0d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;w-full bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[3]/div[@class=&quot;w-full overflow-x-auto&quot;]/table[@class=&quot;responsive-table&quot;]/tbody[@class=&quot;text-sm&quot;]/tr[1]/td[9]/div[@class=&quot;sm:px-5 relative flex items-center gap-6&quot;]/div[@class=&quot;dropdown-content bg-white shadow w-28 absolute z-30 top-[33px] right-0 [&amp;>*]:text-left flex flex-col&quot;]/a[1]/div[@class=&quot;focus:outline-none focus:text-sky-600 text-xs w-full hover:bg-sky-700 py-4 px-4 cursor-pointer hover:text-white&quot;]</value>
+      <webElementGuid>9703abf2-c1c3-4ce0-bcc4-e30a8b16a298</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>dd6b739d-043c-4b4e-a124-19ac53d30c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>d644f8db-a6bb-4cec-ae39-ce8b468dd6fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

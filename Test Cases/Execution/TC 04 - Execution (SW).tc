@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 - Execution (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>830d2125-4c33-47bc-8103-2332c015ccfc</testCaseGuid>
+</TestCaseEntity>

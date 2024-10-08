@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 29 - Restore Kelas (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a4a0086-8439-4b50-b68d-2993d3e6e46b</testCaseGuid>
+</TestCaseEntity>

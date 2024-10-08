@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 01 - Login (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e07d6a5e-9c26-40ed-8e4e-1bd531d88ba7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Restore</name>
+   <tag></tag>
+   <elementGuidId>c4d49f26-7671-46bc-9088-51cfcb0bf450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='modal']/div/div/div/div/button[2])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aabf2760-36d0-4dff-b005-1aff8ef900bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex space-x-2 bg-[#45CF8C] text-white rounded px-6 py-2 focus:outline-none mx-1</value>
+      <webElementGuid>8272a9ec-8daf-4b85-94d1-da8afb59c845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Restore</value>
+      <webElementGuid>ccb95ed5-f175-42de-8d40-55ef072a7999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;w-full sm:w-[40rem] flex flex-col space-y-4 p-8&quot;]/div[@class=&quot;self-end w-fit&quot;]/div[@class=&quot;flex justify-center&quot;]/button[@class=&quot;flex space-x-2 bg-[#45CF8C] text-white rounded px-6 py-2 focus:outline-none mx-1&quot;]</value>
+      <webElementGuid>01b1383a-8f81-428d-9777-4695cd935e6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal']/div/div/div/div/button[2])[3]</value>
+      <webElementGuid>1346d20d-9b04-4807-9e44-d64c96fd5a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/button[2]</value>
+      <webElementGuid>b0a6ba1a-1d75-4af3-9a00-ec31e7c95ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Restore' or . = ' Restore')]</value>
+      <webElementGuid>a54cc804-eeac-4b9b-a894-b452d1dd76cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

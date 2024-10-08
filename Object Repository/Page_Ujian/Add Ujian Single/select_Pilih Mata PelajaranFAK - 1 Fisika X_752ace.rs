@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Mata PelajaranFAK - 1 Fisika X_752ace</name>
+   <tag></tag>
+   <elementGuidId>3d66dd0d-3028-4f80-a310-f8c715fce829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='grid-state'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9a439b9a-a89c-4fb3-8c6a-de3915731a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500</value>
+      <webElementGuid>32dfad85-074a-4aa3-b7f2-8e58c1044db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid-state</value>
+      <webElementGuid>e8c2954b-5e3d-4693-a0d3-0d530911b6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Mata Pelajaran[FAK - 1] Fisika X[FAK - 2 - 2] Fisika XI[BAHASA - 4 - 4] Bahasa[UMUM - 5] Pengetahuan Umum[BAHASA - 6] Bahasa Inggris[AGAMA - 11] PAI</value>
+      <webElementGuid>7af77dea-c7cf-43f1-b6ac-54288f2e9ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;grid mt-2 gap-5 grid-rows-2 md:grid-rows-none md:grid-cols-2&quot;]/div[@class=&quot;space-y-4 mb-4&quot;]/div[2]/div[@class=&quot;flex flex-col space-y-6&quot;]/div[@class=&quot;space-y-1&quot;]/div[@class=&quot;relative&quot;]/select[@id=&quot;grid-state&quot;]</value>
+      <webElementGuid>c4745f98-2ae6-4bd8-be8d-719d2c374bf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='grid-state'])[2]</value>
+      <webElementGuid>e2dea6ac-fda6-4c8d-a7b9-8413b7b14bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>9f4aeb89-f552-487b-8178-c20455c31411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'grid-state' and (text() = 'Pilih Mata Pelajaran[FAK - 1] Fisika X[FAK - 2 - 2] Fisika XI[BAHASA - 4 - 4] Bahasa[UMUM - 5] Pengetahuan Umum[BAHASA - 6] Bahasa Inggris[AGAMA - 11] PAI' or . = 'Pilih Mata Pelajaran[FAK - 1] Fisika X[FAK - 2 - 2] Fisika XI[BAHASA - 4 - 4] Bahasa[UMUM - 5] Pengetahuan Umum[BAHASA - 6] Bahasa Inggris[AGAMA - 11] PAI')]</value>
+      <webElementGuid>5ea288b3-0407-4c8b-b347-4c252e255131</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

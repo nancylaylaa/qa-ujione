@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengaturan User</name>
+   <tag></tag>
+   <elementGuidId>1c64b092-0467-4151-b2ce-103c66b76bde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='left-navigation']/div/div[2]/ul/li[3]/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.opacity-100.list-menu-trannsition.flex-1.ml-3.text-left.whitespace-nowrap.text-sm.svelte-fg5ug7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>251fee6e-b8a0-45d2-8d0e-864dc3c1943d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>opacity-100 list-menu-trannsition flex-1 ml-3 text-left whitespace-nowrap text-sm svelte-fg5ug7</value>
+      <webElementGuid>0896602c-ff10-4bfe-9788-385fbca7b1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengaturan User</value>
+      <webElementGuid>ea2c9c85-ea8d-4da5-bc71-1231aaee7310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-navigation&quot;)/div[@class=&quot;px-4 h-full scroll mt-8 svelte-og1l5i&quot;]/div[2]/ul[@class=&quot;space-y-2 tracking-wide mt-8 transition duration-500&quot;]/li[@class=&quot;whitespace-nowrap&quot;]/button[@class=&quot;flex items-center px-4 py-3 w-full text-white rounded-lg transition duration-75 group hover:text-amber-500&quot;]/span[@class=&quot;opacity-100 list-menu-trannsition flex-1 ml-3 text-left whitespace-nowrap text-sm svelte-fg5ug7&quot;]</value>
+      <webElementGuid>6f52b53c-eb51-4e8c-a78c-9bc3218ad40a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='left-navigation']/div/div[2]/ul/li[3]/button/span[2]</value>
+      <webElementGuid>8e9a43d7-6cc2-453f-8b04-6249549c1b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>71726b51-10ec-43e6-ab13-94c6a3321d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pengaturan User' or . = 'Pengaturan User')]</value>
+      <webElementGuid>7ad76f5c-1727-409b-a30d-20c7351c4ac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

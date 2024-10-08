@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 14 - Delete Data User Pengajar (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0abf3d6c-44ae-49d4-9f70-d141f3bd1f1f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 22 - Delete User Pelajar (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3222da33-e11a-43b4-a7d6-16663b7ca33d</testCaseGuid>
+</TestCaseEntity>

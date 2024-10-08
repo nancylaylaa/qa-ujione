@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Berhasil Membuat Ujian</name>
+   <tag></tag>
+   <elementGuidId>b821e66c-6a15-4dd5-b281-f7508c84f224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b86ed357-7b9b-4b1a-b61c-f6a92b24a5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berhasil Membuat Ujian</value>
+      <webElementGuid>dab95c4c-0a72-46d6-84b0-214652d3d27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[3]/div[@class=&quot;flex notif shadow-xl z-[101] rounded-lg success-type svelte-1joscoi&quot;]/span[2]</value>
+      <webElementGuid>f6d70031-b42a-4923-bc8d-a7c3f9bc3431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>c3829f48-8a08-4ed8-b9be-f87eb9908649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Berhasil Membuat Ujian' or . = 'Berhasil Membuat Ujian')]</value>
+      <webElementGuid>17c76a0f-5fb8-4cec-823c-cac88d48b11e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

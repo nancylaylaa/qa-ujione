@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>ee7a910f-4de5-4f69-a468-8b97a8b6149b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>cb0f6ab2-2abf-4af7-a01c-2098617cde62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>7cadbb28-45b7-49e7-87e3-504f4e6286af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>ff29abca-5dc1-4d50-b781-95c0dbd87982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z</value>
+      <webElementGuid>f98eb710-9238-45bd-98ac-c089f06bf0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[@class=&quot;w-screen h-screen flex justify-center items-center bg-[#f7f1e4]&quot;]/div[1]/div[@class=&quot;p-4 sm:p-0&quot;]/div[@class=&quot;flex flex-col w-full p-6 sm:p-10 rounded-md bg-white mt-4&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;field&quot;]/div[@class=&quot;inline-flex justify-center items-center top-0 w-auto h-[50px] ml-3 left-auto absolute&quot;]/svg[@class=&quot;w-6 h-6 m-auto text-gray-400&quot;]/path[1]</value>
+      <webElementGuid>2f14daf2-38a9-4ee9-ab28-4f75de056d85</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

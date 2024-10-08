@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>moveToTrash</name>
+   <tag></tag>
+   <elementGuidId>cea2cc82-43bb-4d35-9688-cd49f9cba008</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class=&quot;w-full whitespace-nowrap&quot;]//tbody//tr[3]//td[8]//div//button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>54367d30-1892-48df-a719-ad05bbc06e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/icons/delete-icon.svg</value>
+      <webElementGuid>977eb184-0b43-4350-993a-0af4603d115d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>delete-icon</value>
+      <webElementGuid>b8a263ce-fc8a-4c9c-9729-b1b8b0d6496a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-auto w-6</value>
+      <webElementGuid>8e2026e8-4a21-4df8-aac7-af2a211d611b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[4]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full whitespace-nowrap&quot;]/tbody[1]/tr[@class=&quot;even:bg-gray-100 h-[60px]&quot;]/td[@class=&quot;min-w-[142px]&quot;]/div[@class=&quot;flex justify-evenly&quot;]/button[@class=&quot;p-1&quot;]/img[@class=&quot;h-auto w-6&quot;]</value>
+      <webElementGuid>48ff2df5-35fb-4bfc-a167-112edf70e191</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='delete-icon'])[8]</value>
+      <webElementGuid>f71374e4-7ebd-4b54-8e0f-4ed4a5f9902d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[8]/div/button[2]/img</value>
+      <webElementGuid>470ef832-a4b9-4aa8-9a5d-429654444c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/icons/delete-icon.svg' and @alt = 'delete-icon']</value>
+      <webElementGuid>2ba88c11-300f-4e0b-9021-fc59a910ca1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 09 - Access Detail Pengajar (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>214303a7-c05c-4eef-afd8-7df3e7b80cb8</testCaseGuid>
+</TestCaseEntity>

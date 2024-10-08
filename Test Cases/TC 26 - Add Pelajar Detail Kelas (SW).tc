@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 26 - Add Pelajar Detail Kelas (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d1ec268-99d9-40c6-88ec-2d8c7c18bc4e</testCaseGuid>
+</TestCaseEntity>

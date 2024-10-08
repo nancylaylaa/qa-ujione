@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Admin  Pengajar</name>
+   <tag></tag>
+   <elementGuidId>31bc34a4-9a7a-4dfe-9a10-0fa007ae2964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[text()='Admin / Pengajar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e508b27-0c35-40ae-b976-929042a98c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users</value>
+      <webElementGuid>8f95e2bf-fa3d-40f5-bb8c-98cf1bc6fcce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm pl-11 relative px-4 py-3 flex items-center space-x-4 rounded text-white hover:text-amber-500</value>
+      <webElementGuid>a82a55a6-bf6a-4086-853c-b22a58ad4db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin / Pengajar</value>
+      <webElementGuid>f93f3ff9-b790-49a0-97fc-e8f732ed4d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-navigation&quot;)/div[@class=&quot;px-4 h-full scroll mt-8 svelte-og1l5i&quot;]/div[2]/ul[@class=&quot;space-y-2 tracking-wide mt-8 transition duration-500&quot;]/li[@class=&quot;whitespace-nowrap&quot;]/ul[@class=&quot;space-y-2&quot;]/li[1]/a[@class=&quot;text-sm pl-11 relative px-4 py-3 flex items-center space-x-4 rounded text-white hover:text-amber-500&quot;]</value>
+      <webElementGuid>d87b7716-8649-4d65-ba52-3987c038c0d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='left-navigation']/div/div[2]/ul/li[3]/ul/li/a</value>
+      <webElementGuid>fe635912-0d09-4825-958f-14b7641dab5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Admin / Pengajar')]</value>
+      <webElementGuid>c4f260ab-27af-445f-ba27-36ab0e762dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/users')]</value>
+      <webElementGuid>90533ae4-22c0-49f0-be5b-5e89d3e7a9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>03f11143-0444-4467-ae7c-7ac018fcc0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/users' and (text() = 'Admin / Pengajar' or . = 'Admin / Pengajar')]</value>
+      <webElementGuid>9515d645-a9b7-4f79-8518-af7a582f90f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

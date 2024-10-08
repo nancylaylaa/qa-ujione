@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>3717ee93-9e31-47c6-b554-2ff6640bb5fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-testid=&quot;delete-mapel&quot;]//div//div//div//div//div//button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07a6b891-74c6-457a-9028-0a13d22870b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex space-x-2 bg-red-500 text-white rounded px-6 py-2 focus:outline-none mx-1</value>
+      <webElementGuid>63adb352-c51b-4b14-86b5-b994a1d0725e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hapus</value>
+      <webElementGuid>7d6fe496-1fcb-4877-8b2f-805e69039caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;w-full md:w-[40rem] flex flex-col space-y-4 p-8&quot;]/div[@class=&quot;self-end w-fit&quot;]/div[@class=&quot;flex justify-center&quot;]/button[@class=&quot;flex space-x-2 bg-red-500 text-white rounded px-6 py-2 focus:outline-none mx-1&quot;]</value>
+      <webElementGuid>47b246f0-53c2-4742-8f64-4ed96557b04b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal']/div/div/div/div/button[2])[2]</value>
+      <webElementGuid>6466cb3c-1f23-4012-822d-fd28d7acd3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/button[2]</value>
+      <webElementGuid>edbd81fd-230d-4a30-9128-e5799a5a32eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Hapus' or . = ' Hapus')]</value>
+      <webElementGuid>fc51763e-ccb7-439e-b06f-454de93a72ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

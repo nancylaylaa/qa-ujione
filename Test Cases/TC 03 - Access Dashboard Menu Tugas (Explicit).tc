@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03 - Access Dashboard Menu Tugas (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>433c69fa-b599-4b30-8d8d-618b2c964016</testCaseGuid>
+</TestCaseEntity>

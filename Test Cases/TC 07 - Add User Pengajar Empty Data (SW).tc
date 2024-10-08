@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 07 - Add User Pengajar Empty Data (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea20701d-7bcf-4762-b6e1-13460d553bcc</testCaseGuid>
+</TestCaseEntity>

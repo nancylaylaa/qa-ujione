@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Pelajar</name>
+   <tag></tag>
+   <elementGuidId>aae51e4e-8c98-4204-bd7d-99342afd0105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(), 'Tambah Pelajar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb08f551-61b5-4048-b01e-4f0adb6dba60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-teal-600 rounded py-2 px-5 sm:w-fit w-full text-white</value>
+      <webElementGuid>19272051-7635-401f-82cf-77fd8460a7f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc417439-e514-43f9-b100-0e9c20692293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Pelajar</value>
+      <webElementGuid>9ee15c6e-a781-426b-999f-031a858f3b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;sm:flex flex-col flex sm:flex-row justify-between sm:gap-0 gap-2&quot;]/div[@class=&quot;sm:flex sm:flex-row flex items-center flex-col sm:space-x-4 sm:w-fit w-full sm:gap-0 gap-2&quot;]/button[@class=&quot;bg-teal-600 rounded py-2 px-5 sm:w-fit w-full text-white&quot;]</value>
+      <webElementGuid>8d41489f-7fe5-4ef7-9e7d-29a4b62a6135</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>b32ca4d7-abd9-4ea3-bc64-6765994795fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>f68d7522-8bc2-48a5-b5d4-86fd34cb34a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tambah Pelajar' or . = ' Tambah Pelajar')]</value>
+      <webElementGuid>d1dbd044-89fa-45be-924f-ecff6b700dc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

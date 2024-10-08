@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_jenjang</name>
+   <tag></tag>
+   <elementGuidId>d2ad0343-89e7-4d1f-a64e-9442a6cd9f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@class=&quot;block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>27ada978-6bf3-40c6-b1b6-1939f22ab4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500</value>
+      <webElementGuid>948ecb71-ad31-4315-b204-0a951bc5ce4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 SD2 SD3 (SD)4 (SD)5 (SD)6 (SD)7 (SMP)8 (SMP)9 (SMP)10 (SMA)11 (SMA)12 (SMA)</value>
+      <webElementGuid>6c0df6ce-ac87-4996-9903-159eec67eca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;w-full md:w-[40rem] flex flex-col space-y-4 p-8&quot;]/div[3]/div[@class=&quot;relative&quot;]/select[@class=&quot;block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500&quot;]</value>
+      <webElementGuid>029ab596-f87b-4d1f-a712-8bb7d49ed1ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div[3]/div/select</value>
+      <webElementGuid>2676faa4-8df1-4ca1-aaf9-479a54bd66c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0bb4ef5e-2bfd-4989-a914-cf504971f940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '1 SD2 SD3 (SD)4 (SD)5 (SD)6 (SD)7 (SMP)8 (SMP)9 (SMP)10 (SMA)11 (SMA)12 (SMA)' or . = '1 SD2 SD3 (SD)4 (SD)5 (SD)6 (SD)7 (SMP)8 (SMP)9 (SMP)10 (SMA)11 (SMA)12 (SMA)')]</value>
+      <webElementGuid>9fb59a6c-cd9b-4fe2-8483-a095cd71ad06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 25 - Add Wali Detail Kelas (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ae5faa7-d312-4d78-8c46-16000f42c9d4</testCaseGuid>
+</TestCaseEntity>

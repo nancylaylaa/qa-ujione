@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_text-gray-500 text-sm appearance-none_18f1f6</name>
+   <tag></tag>
+   <elementGuidId>43909fa2-513f-4ce2-8eea-ae123ca742bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b49d5813-0787-486d-94e6-dae41f3e0ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-500 text-sm appearance-none border rounded w-full py-2 px-6 leading-tight focus:outline-none focus:shadow-outline svelte-b4v0il</value>
+      <webElementGuid>7401468d-b08f-4268-9be1-3248adf07f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d739607e-7ef4-4989-8ada-2c1cea951fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari data......</value>
+      <webElementGuid>a1dda9d4-d201-4ca0-93b8-367ee415f6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[4]/div[@class=&quot;flex flex-col space-y-2 sm:space-y-0 sm:flex-row justify-between mb-2&quot;]/div[@class=&quot;flex items-center space-x-2&quot;]/div[@class=&quot;flex items-center relative&quot;]/input[@class=&quot;text-gray-500 text-sm appearance-none border rounded w-full py-2 px-6 leading-tight focus:outline-none focus:shadow-outline svelte-b4v0il&quot;]</value>
+      <webElementGuid>2c92dd43-ece4-4ae4-b421-6369d0c43c2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>bc633716-44ea-41ce-a442-3f1f2690980a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>6cd5310c-68f6-4daa-9365-d59d67600f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari data......']</value>
+      <webElementGuid>a0c76873-8d10-4d27-99c2-ef61d9389ca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

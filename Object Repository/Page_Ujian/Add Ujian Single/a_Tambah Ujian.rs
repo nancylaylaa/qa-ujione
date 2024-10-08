@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Ujian</name>
+   <tag></tag>
+   <elementGuidId>b9bb490a-7d7b-453e-973a-154bfce74536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71f194f8-0684-47b4-8eeb-53dbde31f546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/create-ujian</value>
+      <webElementGuid>d3ba2b00-ff84-40d7-b8f1-8bf7a6a99d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2 bg-teal-600 rounded py-2 px-5 text-white w-full sm:w-fit</value>
+      <webElementGuid>d4ba8d39-5f8e-4906-a229-67f42ac846ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fde71328-305e-4b50-a680-478d7867964a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Ujian</value>
+      <webElementGuid>663fd098-b5bf-4e18-b83b-bf50b6327ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;w-full bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between&quot;]/div[@class=&quot;flex flex-col gap-2 sm:flex-row&quot;]/a[@class=&quot;flex items-center space-x-2 bg-teal-600 rounded py-2 px-5 text-white w-full sm:w-fit&quot;]</value>
+      <webElementGuid>3d478bd7-024f-4758-985a-55f05bd25c7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='button']</value>
+      <webElementGuid>29e60f7f-d193-4d46-8fa2-9dd06fe31c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/create-ujian')])[2]</value>
+      <webElementGuid>6b8828ec-4e33-4295-bb65-12f2707655a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>2d9957b1-986a-4f88-a081-9e7e5daafd90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/create-ujian' and @type = 'button' and (text() = ' Tambah Ujian' or . = ' Tambah Ujian')]</value>
+      <webElementGuid>1adeedee-96f3-40ca-8919-3c64655d659c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

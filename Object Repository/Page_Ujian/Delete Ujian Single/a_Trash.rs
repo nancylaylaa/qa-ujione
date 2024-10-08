@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trash</name>
+   <tag></tag>
+   <elementGuidId>f017063b-da36-4cc8-b5ef-db71465afa9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '/trash/ujian')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b99b354b-bffe-4a87-bbd5-b9abfb4877bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/trash/ujian</value>
+      <webElementGuid>d521286d-ed98-48bc-a5a6-41ebb5ce564d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:bg-gray-100 hover:text-teal-600 flex items-center space-x-2 border border-gray-300 rounded p-2 w-full sm:w-fit</value>
+      <webElementGuid>6df99d36-fbce-401f-aee5-4861447668f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Trash</value>
+      <webElementGuid>3a8e5d4b-7964-4fcd-879c-810c5f1c9d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;w-full bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] p-4 space-y-4&quot;]/div[@class=&quot;flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between&quot;]/div[@class=&quot;flex flex-col gap-2 sm:flex-row&quot;]/a[@class=&quot;hover:bg-gray-100 hover:text-teal-600 flex items-center space-x-2 border border-gray-300 rounded p-2 w-full sm:w-fit&quot;]</value>
+      <webElementGuid>d95eb78c-d7cc-41e0-8391-ce01a72c7db2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/trash/ujian')]</value>
+      <webElementGuid>586cfec0-c4e0-457a-ac78-a778ae4a24d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>9959ef35-0b42-460e-a09f-daa29f469c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/trash/ujian' and (text() = ' Trash' or . = ' Trash')]</value>
+      <webElementGuid>c4887df1-7927-4df5-b92c-5b77fcd823a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

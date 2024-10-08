@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_emptyNotification</name>
+   <tag></tag>
+   <elementGuidId>1bf853e7-e6b2-460f-ba52-492574240aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;topModal svelte-ywpkxw visible&quot;]//div[@id=&quot;modal&quot;]//div//div//form//div[7]//div[1]//span[text() = 'Inputan Nomor Induk Harus Diisi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-red-500.text-xs.italic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fefcfc41-36dc-4779-be3b-515341b2ba3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500 text-xs italic</value>
+      <webElementGuid>030865e9-cd69-4fc9-8ff8-118c2809331b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inputan Nomor Induk Harus Diisi</value>
+      <webElementGuid>e17b93e7-922f-4ee3-b0bf-14e746574201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]/div[@id=&quot;modal&quot;]/div[1]/div[@class=&quot;sm:w-[40rem] w-full flex flex-col space-y-4 sm:p-8 p-2&quot;]/form[@class=&quot;space-y-4 flex flex-col&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/div[@class=&quot;mt-2&quot;]/span[@class=&quot;text-red-500 text-xs italic&quot;]</value>
+      <webElementGuid>709f0fc2-05a3-44eb-9c5b-d3c717c4e521</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal']/div/div/form/div[7]/div/span)[2]</value>
+      <webElementGuid>6ab07de3-4dc6-4fb8-807f-a1536e8c3854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/form/div[7]/div/span</value>
+      <webElementGuid>a31409e3-50b5-4616-be06-67ad4f41ebbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inputan Nomor Induk Harus Diisi' or . = 'Inputan Nomor Induk Harus Diisi')]</value>
+      <webElementGuid>cf8196d3-4c57-4e7b-bd2b-14523ceaa04e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 10 - Add Kelas Detail Pengajar (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ea81645-c0f1-4651-884f-46cf915136f9</testCaseGuid>
+</TestCaseEntity>

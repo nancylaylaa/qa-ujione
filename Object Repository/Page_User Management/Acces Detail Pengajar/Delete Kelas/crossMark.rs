@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>crossMark</name>
+   <tag></tag>
+   <elementGuidId>16a3c0d0-2933-4c52-9ee1-0ba0407277e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class=&quot;w-full whitespace-nowrap&quot;]//tbody//tr[8]//td[7]//div//div//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0b93a937-8517-4821-8214-fbada8add0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/icons/cross-black-icon.svg</value>
+      <webElementGuid>ba70e455-9ad1-4ec6-929f-b6947ec81eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>cross-icon</value>
+      <webElementGuid>5188e2ee-d59b-4202-821c-9de51d8bc7bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[4]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full whitespace-nowrap&quot;]/tbody[1]/tr[@class=&quot;even:bg-gray-100 h-[60px]&quot;]/td[7]/div[@class=&quot;flex flex-wrap justify-evenly w-full gap-1 py-2&quot;]/div[@class=&quot;flex gap-2 items-center bg-[#DDFFCD] py-1 px-4 rounded-full text-green-700 w-fit&quot;]/button[@class=&quot;hover:bg-[#b3f793] p-1 rounded-full&quot;]/img[1]</value>
+      <webElementGuid>5986daf3-4ac7-466a-856b-1ae46023f812</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='cross-icon'])[8]</value>
+      <webElementGuid>a2115192-6904-409e-95a1-48f0741afd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[7]/div/div/button/img</value>
+      <webElementGuid>6f8f870e-8d73-47ff-8c87-9bbb81533f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/icons/cross-black-icon.svg' and @alt = 'cross-icon']</value>
+      <webElementGuid>80ccc578-7183-4ae9-bd04-fa83830f362a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 28 - Edit Kelas (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c8f723f-31a6-4d1f-8810-e6b52e58d332</testCaseGuid>
+</TestCaseEntity>

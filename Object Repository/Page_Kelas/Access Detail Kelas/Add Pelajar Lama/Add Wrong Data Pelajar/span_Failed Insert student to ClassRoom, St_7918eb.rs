@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Failed Insert student to ClassRoom, St_7918eb</name>
+   <tag></tag>
+   <elementGuidId>e23e980c-94e0-46df-ad9e-2adc26712bf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>530e7484-ec4e-4bed-858a-a0a08a63ec4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Failed Insert student to ClassRoom, Student with number `21233` not found</value>
+      <webElementGuid>a5360c23-556c-407b-ba66-c6a8d3ae86ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;space-y-4&quot;]/div[4]/div[@class=&quot;flex notif shadow-xl z-[101] rounded-lg danger-type svelte-1joscoi&quot;]/span[2]</value>
+      <webElementGuid>662126b4-2b31-49c8-805f-fb8ab6e321f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>818519b9-e81b-40e3-97f8-01f1b5a2ad95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Failed Insert student to ClassRoom, Student with number `21233` not found' or . = 'Failed Insert student to ClassRoom, Student with number `21233` not found')]</value>
+      <webElementGuid>db48b796-c0fb-4ead-8b10-d284e94bb84c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

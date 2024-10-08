@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 13 - Restore Data User Pengajar (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>869cdad6-678b-4349-b60c-de9aee6691c4</testCaseGuid>
+</TestCaseEntity>

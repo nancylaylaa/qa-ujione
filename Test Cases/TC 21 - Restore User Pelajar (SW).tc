@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 21 - Restore User Pelajar (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85e21a98-eeee-443a-970b-38992917abe6</testCaseGuid>
+</TestCaseEntity>

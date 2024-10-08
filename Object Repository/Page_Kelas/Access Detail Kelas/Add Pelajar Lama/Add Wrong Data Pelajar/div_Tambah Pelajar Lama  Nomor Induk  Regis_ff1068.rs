@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tambah Pelajar Lama  Nomor Induk  Regis_ff1068</name>
+   <tag></tag>
+   <elementGuidId>b7c4186b-8ded-47f8-a483-674c2f22e3b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.topModal.svelte-ywpkxw.visible</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdc74e90-beab-4a56-b263-631ce15caa35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>add-old</value>
+      <webElementGuid>385e10f5-4bd2-4d13-895b-862320aa88f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topModal svelte-ywpkxw visible</value>
+      <webElementGuid>6bed7638-32c0-4799-a138-2ab13906f8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Pelajar Lama  Nomor Induk / Registrasi    Simpan </value>
+      <webElementGuid>7cb1e86c-f2ce-42b9-ae83-f8f46ab76536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;topModal svelte-ywpkxw visible&quot;]</value>
+      <webElementGuid>886d94ac-db47-488f-927d-77da93f28c93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>b820ebc9-abf8-4a0e-9eb4-35a745ac8441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Tambah Pelajar Lama  Nomor Induk / Registrasi    Simpan ' or . = ' Tambah Pelajar Lama  Nomor Induk / Registrasi    Simpan ')]</value>
+      <webElementGuid>f115c006-23c5-4b68-9027-14a0b97e1027</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

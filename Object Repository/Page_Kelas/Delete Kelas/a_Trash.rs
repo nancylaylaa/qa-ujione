@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trash</name>
+   <tag></tag>
+   <elementGuidId>f0ff9560-f36c-4bf6-9b12-2c1c1c058582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;sm:flex flex-col flex sm:flex-row justify-between sm:gap-0 gap-2&quot;]//div//a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>45d84311-3c09-43e6-b48e-f39ce2a80832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/trash/kelas</value>
+      <webElementGuid>42176e5b-7cc9-4471-8d54-773cc96f38b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:bg-gray-100 hover:text-teal-600 flex items-center space-x-2 border border-gray-300 rounded p-2 sm:w-fit w-full</value>
+      <webElementGuid>cbd04a38-7b47-4222-a97b-0435a6e533aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Trash</value>
+      <webElementGuid>41ffe6fd-6552-4e35-b056-1e55ad271897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;sm:flex flex-col flex sm:flex-row justify-between sm:gap-0 gap-2&quot;]/div[@class=&quot;sm:flex sm:flex-row flex items-center flex-col sm:space-x-4 sm:w-fit w-full sm:gap-0 gap-2&quot;]/a[@class=&quot;hover:bg-gray-100 hover:text-teal-600 flex items-center space-x-2 border border-gray-300 rounded p-2 sm:w-fit w-full&quot;]</value>
+      <webElementGuid>85a4e2bc-7562-43ec-8a86-669d504982fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/trash/kelas')]</value>
+      <webElementGuid>4de61fb8-1297-40c5-8a7d-3dc7d1693e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>89acc522-586a-4950-bab8-fc7df717e4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/trash/kelas' and (text() = ' Trash' or . = ' Trash')]</value>
+      <webElementGuid>c40a6181-02f9-4b01-bd93-2c2fb9a49c90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 11 - Delete Kelas Detail Pengajar (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23b20d36-db86-4e91-846f-46535b9ae261</testCaseGuid>
+</TestCaseEntity>

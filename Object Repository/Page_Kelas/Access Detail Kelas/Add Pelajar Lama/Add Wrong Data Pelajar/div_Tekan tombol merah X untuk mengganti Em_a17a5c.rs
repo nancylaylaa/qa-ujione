@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tekan tombol merah X untuk mengganti Em_a17a5c</name>
+   <tag></tag>
+   <elementGuidId>d80f640f-63be-49cc-9142-4f785f259986</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7172e703-5752-486b-87d8-f9c92528add6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>a6200f97-8b33-4fc7-b872-c9c2787c306e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tekan tombol merah 'X' untuk mengganti Email    cancel       Password  Berikutnya Lupa Password? Klik Disini </value>
+      <webElementGuid>a79e15ba-adf9-4f5e-bc62-2d4387a1dc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[@class=&quot;w-screen h-screen flex justify-center items-center bg-[#f7f1e4]&quot;]/div[1]/div[@class=&quot;p-4 sm:p-0&quot;]/div[@class=&quot;flex flex-col w-full p-6 sm:p-10 rounded-md bg-white mt-4&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>1a952a1c-9ab6-4400-8099-2bbd17889364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div</value>
+      <webElementGuid>f15fdb14-27b5-41ed-ba35-cbc22e713991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Tekan tombol merah &quot; , &quot;'&quot; , &quot;X&quot; , &quot;'&quot; , &quot; untuk mengganti Email    cancel       Password  Berikutnya Lupa Password? Klik Disini &quot;) or . = concat(&quot;Tekan tombol merah &quot; , &quot;'&quot; , &quot;X&quot; , &quot;'&quot; , &quot; untuk mengganti Email    cancel       Password  Berikutnya Lupa Password? Klik Disini &quot;))]</value>
+      <webElementGuid>1919558f-7576-4733-851f-969adfba4bd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

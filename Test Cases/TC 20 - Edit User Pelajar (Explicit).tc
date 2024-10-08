@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 20 - Edit User Pelajar (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38c07fee-577b-4c55-a8d5-bfeb30e10a82</testCaseGuid>
+</TestCaseEntity>

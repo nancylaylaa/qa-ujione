@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_detailKelas</name>
+   <tag></tag>
+   <elementGuidId>c6a3a1f0-0f8b-4b41-932b-aaa28154d899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class=&quot;w-full whitespace-nowrap&quot;]//tbody//tr[7]//td[8]//div//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1d5c8749-4d25-47e8-84a0-739700d4e65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/icons/eye-icon.svg</value>
+      <webElementGuid>969fdb94-975c-4c3a-9430-63df0d19ab87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>eye-icon</value>
+      <webElementGuid>5a187b6d-2182-4ad7-b4f5-384835e33a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-auto w-6</value>
+      <webElementGuid>811833d4-e497-4d2a-a710-fc0ce56eba6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[4]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full whitespace-nowrap&quot;]/tbody[1]/tr[@class=&quot;even:bg-gray-100 h-[60px]&quot;]/td[@class=&quot;min-w-[142px]&quot;]/div[@class=&quot;flex justify-evenly&quot;]/a[@class=&quot;p-1&quot;]/img[@class=&quot;h-auto w-6&quot;]</value>
+      <webElementGuid>402c29b4-3e37-4a2f-a002-148e6bc6183c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='eye-icon'])[5]</value>
+      <webElementGuid>38b5c890-ff77-4ea9-88a5-a902f9d3b703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[8]/div/a/img</value>
+      <webElementGuid>9a167596-7908-4292-a1d9-85dea05fc1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/icons/eye-icon.svg' and @alt = 'eye-icon']</value>
+      <webElementGuid>e07e8bd0-594a-420c-a8f1-098d48b9f2ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

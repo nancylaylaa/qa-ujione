@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Failed Insert student to ClassRoom, St_5c2621</name>
+   <tag></tag>
+   <elementGuidId>9c9f3b5c-59b7-434b-a778-c991b05cff2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@data-testid='simple-notif']/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>941880dc-bbef-452a-9662-f6d5e5a86a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Failed Insert student to ClassRoom, Student in the Class `X - C` please delete first or move it</value>
+      <webElementGuid>66a71b02-e26c-4f2f-ab18-70b1a303fd3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;pb-6 w-full bg-[#e8efee] min-h-screen lg:pl-[246px] main-container-transition-open svelte-og1l5i&quot;]/div[@class=&quot;px-2 pt-2 w-full mx-auto&quot;]/div[@class=&quot;p-4 bg-white rounded shadow-[0px_1px_3px_0px_rgb(54,74,99,0.05)] space-y-4&quot;]/div[@class=&quot;space-y-4&quot;]/div[4]/div[@class=&quot;flex notif shadow-xl z-[101] rounded-lg danger-type svelte-1joscoi&quot;]/span[2]</value>
+      <webElementGuid>8348111f-f7af-462a-9a07-21708fbb1b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>b1769f54-32bc-4604-98e0-9c89f6a88ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Failed Insert student to ClassRoom, Student in the Class `X - C` please delete first or move it' or . = 'Failed Insert student to ClassRoom, Student in the Class `X - C` please delete first or move it')]</value>
+      <webElementGuid>8606302d-c4a9-4f43-9509-794099e27073</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

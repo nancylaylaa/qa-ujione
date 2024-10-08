@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 12 - Edit Data User Pengajar (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b8d1773-7228-4afa-815e-e0ed0ff6627d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 18 - Add User Pelajar Empty Data (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebb7693d-8e5b-482b-99ab-ff44407bc3e9</testCaseGuid>
+</TestCaseEntity>

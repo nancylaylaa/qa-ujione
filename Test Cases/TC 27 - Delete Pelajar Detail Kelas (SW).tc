@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 27 - Delete Pelajar Detail Kelas (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b954d81e-340e-4399-88c9-15f848d59e46</testCaseGuid>
+</TestCaseEntity>

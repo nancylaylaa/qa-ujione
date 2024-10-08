@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pre-Condition Login (Explicit)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ae3c1d1-0d28-4c88-b52f-ccaeb7205a84</testCaseGuid>
+</TestCaseEntity>

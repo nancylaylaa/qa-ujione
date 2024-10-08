@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 - Access Dashboard Menu Ujian (SW)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d2f867c-7cd4-4b47-8e45-acb3e068f907</testCaseGuid>
+</TestCaseEntity>
