@@ -281,7 +281,7 @@ public class UserManagementTest {
         adminManagement.openFormGuru();
         adminManagement.enterNomorInduk("123124");
         adminManagement.enterNamaGuru("Guru Test Baru");
-        adminManagement.enterEmailGuru("gurutesbaru@gmail.com");
+        adminManagement.enterEmailGuru("josh@mail.com");
         adminManagement.enterTelephone("1232112");
         adminManagement.clickGenderFemale();
         adminManagement.enterPassword("admin123");
@@ -736,7 +736,7 @@ public class UserManagementTest {
         PengajarPage adminManagement = dashboardPage.clickUserManagementPengajar();
         ResultAdmin resultPengajar = adminManagement.inputText("josh");
         String validSearchGuru = resultPengajar.verifyValidSearch();
-        assertEquals("josh", validSearchGuru, "Guru with valid keyword not found using implicit wait");
+        assertEquals("1 Guru", validSearchGuru, "Guru with valid keyword not found using implicit wait");
         System.out.println("Guru with valid keyword found using implicit wait!");
     }
 
@@ -754,7 +754,7 @@ public class UserManagementTest {
         PengajarPage adminManagement = dashboardPage.clickPengajarExplicit();
         ResultAdmin resultPengajar = adminManagement.inputTextExplicit("josh");
         String validSearchGuru = resultPengajar.verifyValidSearchExplicit();
-        assertEquals("josh", validSearchGuru, "Guru with valid keyword not found using explicit wait");
+        assertEquals("1 Guru", validSearchGuru, "Guru with valid keyword not found using explicit wait");
         System.out.println("Guru with valid keyword found using explicit wait!");
     }
 
@@ -772,7 +772,7 @@ public class UserManagementTest {
         PengajarPage adminManagement = dashboardPage.clickPengajarFluent();
         ResultAdmin resultPengajar = adminManagement.inputTextFluent("josh");
         String validSearchGuru = resultPengajar.verifyValidSearchFluent();
-        assertEquals("josh", validSearchGuru, "Guru with valid keyword not found using fluent wait");
+        assertEquals("1 Guru", validSearchGuru, "Guru with valid keyword not found using fluent wait");
         System.out.println("Guru with valid keyword found using fluent wait!");
     }
 
@@ -1223,7 +1223,6 @@ public class UserManagementTest {
         adminManagement.openTrashPage();
         adminManagement.checkboxValue();
         adminManagement.restoreValue();
-//        Thread.sleep(2000);
         ResultAdmin resultPelajar = adminManagement.restoreFromTrash();
         String textTrashPage = resultPelajar.verifyEmptyTrashPage();
         assertEquals("Tras Data Kosong", textTrashPage, "Message text on trash page not found using implicit wait");
@@ -1332,10 +1331,10 @@ public class UserManagementTest {
         dashboardPage.clickUserManagementFluent();
         dashboardPage.clickMenuAdminDropdownFluent();
         PelajarPage adminManagement = dashboardPage.clickPelajarFluent();
-        adminManagement.moveToTrashPageFluent();
+        adminManagement.moveToTrashPageDeleteFluent();
         adminManagement.deleteFromListFluent();
         adminManagement.openTrashPageFluent();
-        adminManagement.checkboxValueFluent();
+        adminManagement.checkboxValueDeleteFluent();
         adminManagement.deleteValueFluent();
         ResultAdmin resultPelajar = adminManagement.deletePermanentFluent();
         String textTrashPage = resultPelajar.verifyEmptyTrashPageFluent();
