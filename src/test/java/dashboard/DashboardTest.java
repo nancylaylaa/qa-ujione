@@ -34,8 +34,8 @@ public class DashboardTest {
     public void TC02_Implicit() {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         loginPage.open();
-        loginPage.enterEmail("tes45@jetorbit.com");
-        loginPage.enterPassword("cannabis123");
+        loginPage.enterEmail("tes@admin.com");
+        loginPage.enterPassword("password");
         loginPage.clickButton();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -50,9 +50,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC02_Explicit() {
         loginPage.open();
-        loginPage.enterEmailExplicit("tes45@jetorbit.com");
+        loginPage.enterEmailExplicit("tes@admin.com");
         loginPage.submitEmailExplicit();
-        loginPage.enterPasswordExplicit("cannabis123");
+        loginPage.enterPasswordExplicit("password");
         loginPage.clickButtonExplicit();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -67,9 +67,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC02_Fluent() {
         loginPage.open();
-        loginPage.enterEmailFluent("tes45@jetorbit.com");
+        loginPage.enterEmailFluent("tes@admin.com");
         loginPage.submitEmailFluent();
-        loginPage.enterPasswordFluent("cannabis123");
+        loginPage.enterPasswordFluent("password");
         loginPage.clickButtonFluent();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -85,8 +85,8 @@ public class DashboardTest {
     public void TC03_Implicit() {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         loginPage.open();
-        loginPage.enterEmail("tes45@jetorbit.com");
-        loginPage.enterPassword("cannabis123");
+        loginPage.enterEmail("tes@admin.com");
+        loginPage.enterPassword("password");
         loginPage.clickButton();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -101,9 +101,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC03_Explicit() {
         loginPage.open();
-        loginPage.enterEmailExplicit("tes45@jetorbit.com");
+        loginPage.enterEmailExplicit("tes@admin.com");
         loginPage.submitEmailExplicit();
-        loginPage.enterPasswordExplicit("cannabis123");
+        loginPage.enterPasswordExplicit("password");
         loginPage.clickButtonExplicit();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -118,9 +118,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC03_Fluent() {
         loginPage.open();
-        loginPage.enterEmailFluent("tes45@jetorbit.com");
+        loginPage.enterEmailFluent("tes@admin.com");
         loginPage.submitEmailFluent();
-        loginPage.enterPasswordFluent("cannabis123");
+        loginPage.enterPasswordFluent("password");
         loginPage.clickButtonFluent();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -136,8 +136,8 @@ public class DashboardTest {
     public void TC04_Implicit() {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         loginPage.open();
-        loginPage.enterEmail("tes45@jetorbit.com");
-        loginPage.enterPassword("cannabis123");
+        loginPage.enterEmail("tes@admin.com");
+        loginPage.enterPassword("password");
         loginPage.clickButton();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -152,9 +152,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC04_Explicit() {
         loginPage.open();
-        loginPage.enterEmailExplicit("tes45@jetorbit.com");
+        loginPage.enterEmailExplicit("tes@admin.com");
         loginPage.submitEmailExplicit();
-        loginPage.enterPasswordExplicit("cannabis123");
+        loginPage.enterPasswordExplicit("password");
         loginPage.clickButtonExplicit();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -169,9 +169,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC04_Fluent() {
         loginPage.open();
-        loginPage.enterEmailFluent("tes45@jetorbit.com");
+        loginPage.enterEmailFluent("tes@admin.com");
         loginPage.submitEmailFluent();
-        loginPage.enterPasswordFluent("cannabis123");
+        loginPage.enterPasswordFluent("password");
         loginPage.clickButtonFluent();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -187,8 +187,8 @@ public class DashboardTest {
     public void TC05_Implicit() {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         loginPage.open();
-        loginPage.enterEmail("tes45@jetorbit.com");
-        loginPage.enterPassword("cannabis123");
+        loginPage.enterEmail("tes@admin.com");
+        loginPage.enterPassword("password");
         loginPage.clickButton();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -203,9 +203,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC05_Explicit() {
         loginPage.open();
-        loginPage.enterEmailExplicit("tes45@jetorbit.com");
+        loginPage.enterEmailExplicit("tes@admin.com");
         loginPage.submitEmailExplicit();
-        loginPage.enterPasswordExplicit("cannabis123");
+        loginPage.enterPasswordExplicit("password");
         loginPage.clickButtonExplicit();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
@@ -220,9 +220,9 @@ public class DashboardTest {
     @RepeatedTest(30)
     public void TC05_Fluent() {
         loginPage.open();
-        loginPage.enterEmailFluent("tes45@jetorbit.com");
+        loginPage.enterEmailFluent("tes@admin.com");
         loginPage.submitEmailFluent();
-        loginPage.enterPasswordFluent("cannabis123");
+        loginPage.enterPasswordFluent("password");
         loginPage.clickButtonFluent();
         System.out.println("Login successful, initializing DashboardPage...");
         dashboardPage = new DashboardPage(driver);
